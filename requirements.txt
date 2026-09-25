@@ -1,0 +1,6 @@
+# Shared notebook dependencies
+jupyterlab
+numpy
+pandas
+matplotlib
+scikit-learn
